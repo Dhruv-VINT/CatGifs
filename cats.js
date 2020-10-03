@@ -93,4 +93,5 @@ export let cats = [
     'https://i.imgur.com/HvdM0WJ.gif',
     'https://media.giphy.com/media/12PA1eI8FBqEBa/giphy.gif',
     'https://media.giphy.com/media/26FPvntWVkwaRWgXS/giphy.gif'
+    'https://media.giphy.com/media/OmK8lulOMQ9XO/giphy.gif'
 ];
